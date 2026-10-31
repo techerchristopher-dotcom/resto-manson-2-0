@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manson-2-0.rentanoo.com/sitemap.xml
